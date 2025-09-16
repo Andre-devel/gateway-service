@@ -1,0 +1,9 @@
+server:
+  port: 8080
+
+spring:
+  application: 
+    name: api-gateway
+
+jwt:
+  secret: 0dbe98e4-bd09-4e9a-be7d-51c368144d2d
